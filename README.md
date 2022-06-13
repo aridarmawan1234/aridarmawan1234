@@ -26,7 +26,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aridarmawan1234&theme=github_dark&layout=compact&hide=html,css,php,blade,roff,scss)](#)
 
 
-![Andi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aridarmawan1234&theme=github_dark&show_icons=true)
+![Ari's GitHub stats](https://github-readme-stats.vercel.app/api?username=aridarmawan1234&theme=github_dark&show_icons=true)
 
 ---
 
@@ -35,15 +35,8 @@
 <!-- [![website](./img/globe-light.svg)]() -->
 <!-- [![website](./img/globe-dark.svg)]() -->
 
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCQbmFtP73OmD-neuYFBXCfQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCQbmFtP73OmD-neuYFBXCfQ#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/anditorx#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/anditorx#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/andirustianto/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/andirustianto/#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ari-darmawan-495876198/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ari-darmawan-495876198/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/anditorx/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/anditorx/#gh-dark-mode-only)
@@ -53,7 +46,7 @@
 [visionet]: https://www.visionet.co.id/en/
 
 <!--
-**anditorx/anditorx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aridarmawan1234/aridarmawan1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
