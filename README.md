@@ -4,6 +4,9 @@
 <!-- - 🌱 I’m currently learning java & kotlin 🤣 -->
 - 👯 I’m looking to collaborate with other's
 
+### Ari Darmawan's Github Trophy:
+![Andi's Github Trophy](https://github-profile-trophy.vercel.app/?username=aridarmawan1234&theme=discord&rank=-C&margin-w=15)
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
