@@ -48,6 +48,9 @@
 
 [visionet]: https://www.visionet.co.id/en/
 
+
+[![An image of @aridarmawan1234's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aridarmawan1234)](https://holopin.io/@aridarmawan1234)
+
 <!--
 **aridarmawan1234/aridarmawan1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
